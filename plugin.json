@@ -1,0 +1,19 @@
+{
+	"name": "Spotify embeds",
+	"version": "1.0",
+	"description": "Embed spotify playlists into your essays or pages.",
+	"demo": "http://koken.me",
+	"author": {
+		"name": "Koken",
+		"link": "http://koken.me"
+	},
+
+	"oembeds": {
+		"spotify": {
+			"title": "Spotify",
+			"endpoint": "https://embed.spotify.com/oembed/",
+			"regex": "https?://open\\.spotify\\.com/.*",
+			"icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAk9JREFUeNpMks9rE0EUx9+bmc2uSZvYRlqrqLGo5Ga0SC/iRQ9Kg+LBHgTRkxYE/wPvVsWDNxHqRQTBELz0UHoULQqCWO0vKNqkRu2PNM2PzWZ3Z3wzi6XDsMy++cz7zvu+waYf3n//Z2Kp1g4VA5AKUMHOUAiAehHjeP1ocvxsP/cujD35WkXDSWmm+v+lAyauE0mY+etutwPseTbXChUoTYAhgkBGP8xiAjHSYWaSjvACxQF8k6mjURjuc07stTtSTZeaG24AAmOCkZrGAiVILiBaQseXmYT19PzApcFuHQW4UlgZ6ndeztWWqh7h3OYUF4Sa3Cph8eLVI7k+e3fF987suzuUfjNf+/Tbfb1cD6QS5vYKfDl2Mh3RX9a88Zm1zXZYrvvtQO5PiDunenMVd2Kh5jAUyigA4rnDcaJXG0G+8LO81SFruuNCMF10YWH75tQvIjmVrn0xw+J6b37DK296EEPSzfXaSZtKhXflVrPpx5k2kXHttm7Y54pLe8MH9tw+nT6UsPLHU88vHoyZ6ikLkFEKCMbU428BQlNBJiE+3BikGxPR8mXcYpHy5HJjpLii/VFgUxMjBYfBj7o/WizNrnsE7dBvF+u3Jld1E6kPkULPg1nF0GPaxLavkg7PZ7qy6VgnVB8r7lSpSbTDkYyxiSZbLUA/BIvMReji6Hbkq+9bEBnB0BZo0SIEZp4CibBr2VS1HfJQ2XQshLiEFGMpbiaiY4JmS1Xd8PKxJJ9+8bDeCBfXPSkVNzn089w1KaI7ADiaTT0aGfgnwABstCn+o8ZnbgAAAABJRU5ErkJggg=="
+		}
+	}
+}

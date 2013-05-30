@@ -1,7 +1,7 @@
 Spotify plugin for Koken
 =====================
 
-This [Koken](http://koken.me) plugin automatically turns [Spotify](http://rdio.com) links into formatted embeds inside essays or pages. Koken 0.8+ required.
+This [Koken](http://koken.me) plugin automatically turns [Spotify](http://spotify.com) links into formatted embeds inside essays or pages. Koken 0.8+ required.
 
 Documentation: http://help.koken.me/customer/portal/articles/1166338-spotify-plugin
 

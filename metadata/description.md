@@ -1,1 +1,1 @@
-For embedding albums, playlists and songs from the music streaming service [Spotify](http://spotify.com/) in an essay or page.
+For embedding albums, playlists and songs from the music streaming service [Spotify](http://spotify.com/) in an essay or page. Click on **Usage** in the left column for detailed setup instructions.
